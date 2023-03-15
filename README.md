@@ -2,7 +2,11 @@
 
 The goal of cub3d is to make something using raycasting (like [Wolfenstein 3D](https://fr.wikipedia.org/wiki/Wolfenstein_3D)).
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/26AZNpdbnAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=26AZNpdbnAE">
+         <img src="https://img.youtube.com/vi/26AZNpdbnAE/0.jpg" style="width:100%;">
+      </a>
+</div>
 
 * WASD to move, QE or Left/Right directional keys to rotate camera
 * ESC to quit
