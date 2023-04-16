@@ -1,18 +1,37 @@
-# CUB3D
+# cub3D
 
-The goal of cub3d is to make something using raycasting (like [Wolfenstein 3D](https://fr.wikipedia.org/wiki/Wolfenstein_3D)).
+<p align="center">
+    <img src="https://img.shields.io/github/languages/count/fleizean/inception?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/last-commit/fleizean/inception?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/forks/fleizean/inception?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/followers/fleizean?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/watchers/fleizean/inception?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Partner-fyurtsev-red?style=for-the-badge&logo=appveyor"/>
+</p>
 
-<div align="left">
-      <a href="https://www.youtube.com/watch?v=26AZNpdbnAE">
-         <img src="https://img.youtube.com/vi/26AZNpdbnAE/0.jpg" style="width:100%;">
-      </a>
-</div>
+<p align="center">
+    <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/stats?cursusId=21&coalitionId=233"/>
+</p>
 
-* WASD to move, QE or Left/Right directional keys to rotate camera
-* ESC to quit
-* Textures or colors for each sides (North, South, West, East) and Sky/Floor
-* Shadows based on the distance
+<h3 align="center">
+  cub3D
+</h3>
 
-### My Partner
+<p align="center">
+    The goal of cub3d is to make something using raycasting (like [Wolfenstein 3D](https://fr.wikipedia.org/wiki/Wolfenstein_3D)).
+</p>
 
-<b>[fyurtsev](https://github.com/fyurtsev)</b>
+<p align="center">
+    * WASD to move, QE or Left/Right directional keys to rotate camera
+    * ESC to quit
+    * Textures or colors for each sides (North, South, West, East) and Sky/   Floor
+    * Shadows based on the distance
+</p>
+
+<h2 align="center">
+  Evaluation
+</h2>
+
+<p align="center">
+  <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2926410"/>
+</p>
