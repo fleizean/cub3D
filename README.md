@@ -22,10 +22,16 @@
 </p>
 
 <p align="center">
-    * WASD to move, QE or Left/Right directional keys to rotate camera
-    * ESC to quit
-    * Textures or colors for each sides (North, South, West, East) and Sky/   Floor
-    * Shadows based on the distance
+    WASD to move, QE or Left/Right directional keys to rotate camera
+</p>
+<p align="center">
+    ESC to quit
+</p>
+<p align="center">
+    Textures or colors for each sides (North, South, West, East) and Sky/Floor
+</p>
+<p align="center">
+    Shadows based on the distance
 </p>
 
 <h2 align="center">
